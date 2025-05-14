@@ -19,7 +19,4 @@ Antes de começar, você precisará ter o [Python](https://www.python.org/downlo
 
 ## 📂 Como executar
 1. Faça o download ou clone este repositório.
-2. No terminal, vá até a pasta do projeto e execute:
-
-```bash
-  python main.py
+2. No terminal, vá até a pasta do projeto e execute
